@@ -11,7 +11,7 @@
 ## General info
 PetFinder.my has been Malaysia’s leading animal welfare platform since 2008, with a database of more than 150,000 animals. PetFinder collaborates closely with animal lovers, media, corporations, and global organizations to improve animal welfare. Animal adoption rates are strongly correlated to the metadata associated with their online profiles, such as descriptive text and photo characteristics. In this project I used some models to predict the adoptability of pets (how quickly is a pet adopted).
 
-## Technologies
+## Models
 Models used:
 * LightGBM 
 * XGBoost
